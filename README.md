@@ -6,7 +6,6 @@
 - 👀 Intérêts : Développement web, création d’applications et design UI <br>
 - 🌱 J'acquière des compétences actuellement en : HTML, CSS, JavaScript, C, Python <br>
 - 🤝 Ouvert à la collaboration sur des projets motivants et créatifs pour déployer son savoir-faire <br>
-- 📫 Contact ** djebiepiphane900@gmail.com **
 
 <h3 align="left">Contactez moi par  :</h3>
 <p align="left">
